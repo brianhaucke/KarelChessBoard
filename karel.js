@@ -55,6 +55,5 @@ function chessBoard2Beeps(){
    move();
    turnRight();
    move();
-   //putBeeper();
    turnRight();
    }
